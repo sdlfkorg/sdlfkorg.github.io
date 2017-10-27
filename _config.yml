@@ -11,7 +11,7 @@ title:            Jay's Tech Note
 tagline:          'Some Python, Django and JS Notes'
 description:      'My learning path to be a better person'
 url:              http://sdlfkorg.github.io
-baseurl:          /
+baseurl:          '/sdlfkorg.github.io/'
 
 author:
   name:           'Jay Liao'
