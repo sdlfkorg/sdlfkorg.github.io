@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Jay's Tech Note
 tagline:          'Some Python, Django and JS Notes'
 description:      'My learning path to be a better person'
-baseurl:          /
+baseurl:          '/'
 
 author: Jay Liao
 name: 'Jay Liao'
